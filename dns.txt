@@ -1,0 +1,9 @@
+! Title: SCXR DNS Blocklist
+! Description: Personal custom blocklist
+! -------------------------------------
+
+! Blocks gaymaletube.com, www.gaymaletube.com, and all subdomains
+||gaymaletube.com^
+
+! Blocks gaylord.com, www.gaylord.com, and all subdomains
+||gaylord.com^
