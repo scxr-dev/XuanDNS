@@ -1,0 +1,23 @@
+! Gambling site blocklist
+! 1xbet and 1xlite (includes their mirror domains)
+||1xbet-sing.com^
+||1xlite-69967.pro^
+||1xbet*^
+||1xlite*^
+
+! Other gambling sites
+||bet365.com^
+||betway.com^
+||888casino.com^
+||pokerstars.com^
+||bwin.com^
+||unibet.com^
+||williamhill.com^
+||ladbrokes.com^
+||betfair.com^
+||draftkings.com^
+||fanduel.com^
+||stake.com^
+||melbet*^
+||mostbet*^
+||parimatch*^
