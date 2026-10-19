@@ -18,6 +18,4 @@
 ||draftkings.com^
 ||fanduel.com^
 ||stake.com^
-||melbet*^
-||mostbet*^
-||parimatch*^
+||m-melbet.com^
