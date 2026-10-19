@@ -7,3 +7,44 @@
 
 ! Blocks gaylord.com, www.gaylord.com, and all subdomains
 ||gaylord.com^
+
+! --- LGBTQ+ Dating & Social Apps ---
+||grindr.com^
+||scruff.com^
+||sniffies.com^
+||jackd.com^
+||weareher.com^
+||growlrapp.com^
+||planetromeo.com^
+||romeo.com^
+||squirt.org^
+||recon.com^
+||adam4adam.com^
+||manhunt.net^
+||silverdaddies.com^
+||mytransgenderdate.com^
+||lex.lgbt^
+
+! --- LGBTQ+ News, Media & Culture ---
+||pinknews.co.uk^
+||theadvocate.com^
+||out.com^
+||queerty.com^
+||them.us^
+||lgbtqnation.com^
+||autostraddle.com^
+||gaytimes.co.uk^
+||instinctmagazine.com^
+||edgeonthenet.com^
+||washingtonblade.com^
+||attitude.co.uk^
+||intomore.com^
+
+! --- Advocacy & Community Organizations ---
+||glaad.org^
+||hrc.org^
+||thetrevorproject.org^
+||stonewall.org.uk^
+||itgetsbetter.org^
+||glen.ie^
+||ilga.org^
